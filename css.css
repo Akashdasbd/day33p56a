@@ -438,7 +438,7 @@ img{
 .awesome-clients-text h1::after{
 content: "";
 position: absolute;
-top: 180px !important;
+top: 140px !important;
 left: 3px;
 height: 3px;
 width: 84px;
