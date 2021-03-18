@@ -97,7 +97,7 @@ img{
 	height: 100%;
 	position: absolute;
 	top: -186px;
-	left: 657px;
+	left: 948px;
 	background: url(./hero-image.jpg) no-repeat top center;
 	width: 800px;
 	height: 800px;
@@ -135,7 +135,7 @@ img{
 	background: #3763eb;
 }
 .service-item.card.p-5.my-se-it1 {
-	margin-top: -223px;
+	margin-top: -245px;
 
 }
 
@@ -423,7 +423,7 @@ img{
 .my-btnol {
 	background: #3763eb !important;
 	color: #fff !important;
-	width: 209px;
+	width: 210px;
 	height: 56px;
 }
 .my-btnol:hover{
