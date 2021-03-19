@@ -417,18 +417,18 @@ img{
 	font-size: 15px;
 	padding-bottom: 12px;
 }
-.my-btnol{
- background: #3763eb !important;
-}
+
 .my-btnol {
-	background: #3763eb !important;
-	color: #fff !important;
-	width: 210px;
-	height: 56px;
+    background: #3763eb ;
+    color: #fff ;
+    width: 170px;
+    height: 56px;
+    line-height: 41px;
+    border-radius: 50px;
 }
 .my-btnol:hover{
-	background: #ffffff !important;
-	color: #ffffff !important;
+	background: black;
+	color: blue;
 }
 
 .awesome-clients-text h1 {
